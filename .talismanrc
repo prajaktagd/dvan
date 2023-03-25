@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: d3cd8243c570fb4c772efe018c9762dfd120fc8c155810a605575768bbaecef5
+- filename: src/Component/Institute/CreateCertificate.js
+  checksum: 22ffb0adc9868fec53dbc64bab71c58e4aa79e7e797ba449f215cc1a6e0d95f7
+- filename: src/Component/Institute/Institute.js
+  checksum: 1d756642724605144f0bd087b3fb450872afc32828bb8989df3a50993a9128c0
+- filename: src/Component/StudentRow.js
+  checksum: 765f860af507dbbf7d1defbdee5729965e438956ae3b5660d6b21d67f035bf00
+- filename: src/firebase.js
+  checksum: c2d3c2ba7315c85c0df5946f6bbb777fe070801bd6bf419727e5b7b7d621435b
+version: "1.0"

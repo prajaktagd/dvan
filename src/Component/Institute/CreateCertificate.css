@@ -1,0 +1,41 @@
+#certificateWrapper{
+  overflow: hidden;
+  position: relative;
+}
+
+#imgStyle{
+  display: block;
+}
+
+#fname{
+  font-family: "Staatliches", cursive;
+  margin: 0;
+  position: absolute;
+  top: 120px;
+  left: 145px;
+  font-size: 20pt;
+}
+
+#studIdTitle{
+  margin: 0;
+  position: absolute;
+  bottom: 140px;
+  left: 85px;
+  font-size: 10pt;
+}
+
+#branch{
+  margin: 0;
+  position: absolute;
+  bottom: 140px;
+  right: 70px;
+  font-size: 10pt;
+}
+
+#year{
+  margin: 0;
+  position: absolute;
+  bottom: 115px;
+  left: 100px;
+  font-size: 10pt;
+}
